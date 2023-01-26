@@ -111,7 +111,7 @@
             this.label4.TabIndex = 9;
             this.label4.Text = "Employee Name"; 
             this.label4.Text = "EmployeGender ";  
-            // 
+            //  
             // textBox2
             //  
             this.textBox2.Location = new System.Drawing.Point(44, 455);
