@@ -97,7 +97,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(292, 34);
             this.textBox1.TabIndex = 6;
-            // 
+            //  
             // label4 
             //  
             this.label4.AutoSize = true;
