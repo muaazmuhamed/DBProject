@@ -76,7 +76,7 @@ namespace E.M.S
             this.label3.Size = new System.Drawing.Size(201, 28);
             this.label3.TabIndex = 29;
             this.label3.Text = "Department Name";
-            // 
+            //  
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(45, 399);
