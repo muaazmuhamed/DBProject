@@ -107,7 +107,7 @@ namespace E.M.S
             this.label1.Text = "Employee Management System Version 1.0";
             // 
             // panel1
-            // 
+            //  
             this.panel1.BackColor = System.Drawing.SystemColors.Highlight;
             this.panel1.Controls.Add(this.label1);
             this.panel1.ForeColor = System.Drawing.SystemColors.Highlight;
