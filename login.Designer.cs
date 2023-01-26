@@ -139,7 +139,7 @@
             this.textBox3.TabIndex = 10;
             // 
             // label6
-            // 
+            //  
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.SystemColors.InactiveBorder;
             this.label6.Font = new System.Drawing.Font("Trebuchet MS", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
