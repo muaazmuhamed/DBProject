@@ -113,7 +113,7 @@
             this.label4.Text = "EmployeGender "; 
             // 
             // textBox2
-            // 
+            //  
             this.textBox2.Location = new System.Drawing.Point(44, 455);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(292, 34);
