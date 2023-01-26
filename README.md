@@ -1,2 +1,2 @@
 #Employee-management-system
-Data base task with SQL and C# for BST university
+Data Base Project with SQL Server and C# to create Employee Management System. This Project of Data base Lecture for Faculty.
