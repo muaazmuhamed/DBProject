@@ -64,7 +64,7 @@
             this.label1.Location = new System.Drawing.Point(477, 68);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(543, 36);
-            this.label1.TabIndex = 0;
+            this.label1.TabIndex = 0; 
             this.label1.Text = "Employee Management System Version 1.0"; 
             // 
             // label2
