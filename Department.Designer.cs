@@ -27,7 +27,7 @@ namespace E.M.S
         /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
-        {                              
+        {                               
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Department));
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
