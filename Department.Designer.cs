@@ -66,7 +66,7 @@ namespace E.M.S
             this.pictureBox1.TabStop = false;
             // 
             // label3
-            //  
+            //   
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.SystemColors.InactiveBorder;
             this.label3.Font = new System.Drawing.Font("Trebuchet MS", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
