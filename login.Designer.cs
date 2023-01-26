@@ -110,7 +110,7 @@
             this.label4.Size = new System.Drawing.Size(182, 28);
             this.label4.TabIndex = 9;
             this.label4.Text = "Employee Name"; 
-            this.label4.Text = "EmployeGender "; 
+            this.label4.Text = "EmployeGender ";  
             // 
             // textBox2
             //  
